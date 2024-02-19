@@ -40,7 +40,7 @@ int numerrorandomico(int min, int max) {
 // Función para generar datos aleatorios para las estructuras
 void DatosRandomicos(LIBRO* libros, USUARIO* usuarios, BIBLIOTECARIO* bibliotecarios, int TAM) {
 	// Arrays fijos de nombres y otros datos
-	string listaLibros[] = {"Aprende C", "Aprende PHP", "Aprende Linux", "Aprende Pyhton", "Aprende CISCO"};
+	string listaLibros[] = {"Aprende Seguridad Cibernetica", "Aprende C++", "Aprende Linux", "Aprende Pyhton", "Aprende CISCO"};
 	string listaAutores[] = {"José Marquez", "Dillom Forner", "Agatha Linx", "Ruben Neres", "Ever Constantino"};
 	string listaISBN[] = {"1", "2", "3", "4", "5", "6", "7"};
 	string listaNombres[] = {"Jorge", "Ariel", "Norberto", "Alan", "Cinthia", "Yuliana"};
